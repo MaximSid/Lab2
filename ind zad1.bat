@@ -1,5 +1,5 @@
 echo off
-md Sidorov 
+md Sidorov
 cd Sidorov
 md Maxim
 cd Maxim
